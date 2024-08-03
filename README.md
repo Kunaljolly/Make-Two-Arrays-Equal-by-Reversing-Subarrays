@@ -5,7 +5,6 @@ You are given two integer arrays of equal length target and arr. In one step, yo
 Return true if you can make arr equal to target or false otherwise.
 
  
-
 Example 1:
 
 Input: target = [1,2,3,4], arr = [2,4,1,3]
