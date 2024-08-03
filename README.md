@@ -21,6 +21,8 @@ Example 2:
 Input: target = [7], arr = [7]
 Output: true
 Explanation: arr is equal to target without any reverses.
+
+
 Example 3:
 
 Input: target = [3,7,9], arr = [3,7,11]
